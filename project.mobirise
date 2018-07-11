@@ -57,7 +57,10 @@
         "name": "Anton",
         "url": "https://fonts.googleapis.com/css?family=Anton:400"
       }
-    ]
+    ],
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
