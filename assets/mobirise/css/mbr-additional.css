@@ -2442,12 +2442,16 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qMNXL5ZQ1U {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/pexels-photo-872955-2000x1335.jpg");
 }
 .cid-qMNXL5ZQ1U H1 {
   text-align: center;
 }
 .cid-qMS225n6GL {
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/texas-1656861-1920-1920x1258.jpg");
 }
 @media (min-width: 992px) {
@@ -2470,7 +2474,7 @@ body {
   }
 }
 .cid-qMS225n6GL .mbr-section-title {
-  text-align: left;
+  text-align: center;
 }
 .cid-qMS225n6GL .mbr-section-title B {
   color: #ffffff;
@@ -2550,6 +2554,8 @@ body {
   color: #ffffff;
 }
 .cid-ruIH7BcPSY {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/mbr-1-1920x1255.jpg");
 }
 @media (min-width: 992px) {
@@ -2596,7 +2602,7 @@ body {
   text-align: right;
 }
 .cid-qMNXL952jn {
-  padding-top: 45px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -2664,10 +2670,11 @@ body {
 }
 .cid-qMNXL952jn H5 {
   color: #000000;
+  text-align: center;
 }
 .cid-qMNXL952jn P {
   color: #000000;
-  text-align: left;
+  text-align: center;
 }
 .cid-qMNXL952jn .copyright > p {
   text-align: center;
